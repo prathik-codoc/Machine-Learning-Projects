@@ -15,6 +15,8 @@ Sonar_rock_vs_Mine
 
 Fake_News_Prediction
 
+#### Linear and Lasso Regression Model
+Car Price Prediction
 
 #### Random Forest Model
 Wine Quality Prediction
