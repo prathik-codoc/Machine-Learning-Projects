@@ -24,3 +24,5 @@ Wine Quality Prediction
 ### Regression:
 #### XGBoost Algorithm
 House_Price_prediction
+#### Random Forest Regressor
+Gold_Price_prediction
